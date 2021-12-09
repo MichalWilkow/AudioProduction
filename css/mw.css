@@ -1,0 +1,11 @@
+body {
+	font-family: "Lucida Sans Unicode";
+	color: #3E3E3E;
+	background: #94C5EB;
+}
+
+img {
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
